@@ -1,6 +1,6 @@
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 # Archivos de entorno
-.env
+**/.env  # Ignora todos los archivos .env en cualquier subdirectorio
 # Compiled output
 /dist
 /tmp
