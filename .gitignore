@@ -1,6 +1,15 @@
-# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+# --------------------------------------
 # Archivos de entorno
-**/.env  # Ignora todos los archivos .env en cualquier subdirectorio
+.env
+
+# Entornos virtuales de Python
+venv/
+.venv/
+# --------------------------------------
+# Resto de tus reglas actuales (sin modificar)
+__pycache__/
+*.pyc
+*.pyo
 # Compiled output
 /dist
 /tmp
