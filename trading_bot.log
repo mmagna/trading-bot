@@ -1,0 +1,69 @@
+2025-02-11 11:05:33,186 - INFO - Iniciando bot de trading para AAPL
+2025-02-11 11:05:33,646 - INFO - Mercado cerrado. Esperando...
+2025-02-11 11:06:34,673 - INFO - 🛑 Deteniendo el bot de forma segura...
+2025-02-11 11:09:45,538 - INFO - Iniciando bot de trading para AAPL
+2025-02-11 11:09:45,538 - ERROR - Error al verificar posición: 'TradingClient' object has no attribute 'get_position'
+2025-02-11 11:09:45,538 - INFO - Posición actual en AAPL: 0
+2025-02-11 11:09:46,040 - INFO - Señal para AAPL: HOLD
+2025-02-11 11:10:46,045 - ERROR - Error al verificar posición: 'TradingClient' object has no attribute 'get_position'
+2025-02-11 11:10:46,046 - INFO - Posición actual en AAPL: 0
+2025-02-11 11:10:46,187 - INFO - Señal para AAPL: HOLD
+2025-02-11 11:11:46,192 - ERROR - Error al verificar posición: 'TradingClient' object has no attribute 'get_position'
+2025-02-11 11:11:46,192 - INFO - Posición actual en AAPL: 0
+2025-02-11 11:11:46,336 - INFO - Señal para AAPL: HOLD
+2025-02-11 11:12:46,341 - ERROR - Error al verificar posición: 'TradingClient' object has no attribute 'get_position'
+2025-02-11 11:12:46,341 - INFO - Posición actual en AAPL: 0
+2025-02-11 11:12:46,480 - INFO - Señal para AAPL: HOLD
+2025-02-11 11:12:52,029 - INFO - 🛑 Deteniendo el bot de forma segura...
+2025-02-11 11:15:48,714 - INFO - Iniciando bot de trading para AAPL
+2025-02-11 11:15:49,160 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:15:49,538 - INFO - Señal para AAPL: HOLD - Error al obtener señal: 'close'
+2025-02-11 11:16:41,477 - INFO - 🛑 Deteniendo el bot de forma segura...
+2025-02-11 11:18:06,398 - INFO - Iniciando bot de trading para AAPL
+2025-02-11 11:18:06,777 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:18:07,168 - INFO - Señal para AAPL: HOLD - Error al obtener señal: 'close'
+2025-02-11 11:19:07,309 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:19:07,445 - INFO - Señal para AAPL: HOLD - Error al obtener señal: 'close'
+2025-02-11 11:19:11,237 - INFO - 🛑 Deteniendo el bot de forma segura...
+2025-02-11 11:22:05,011 - INFO - Iniciando bot de trading para AAPL
+2025-02-11 11:22:05,400 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:22:05,852 - INFO - Señal para AAPL: HOLD - Precio: $227.65, SMA20: $230.98, SMA50: $240.33 - Tendencia bajista, mantener posición corta
+2025-02-11 11:23:05,986 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:23:06,140 - INFO - Señal para AAPL: HOLD - Precio: $227.65, SMA20: $230.98, SMA50: $240.33 - Tendencia bajista, mantener posición corta
+2025-02-11 11:24:06,272 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:24:06,410 - INFO - Señal para AAPL: HOLD - Precio: $227.65, SMA20: $230.98, SMA50: $240.33 - Tendencia bajista, mantener posición corta
+2025-02-11 11:25:06,545 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:25:06,686 - INFO - Señal para AAPL: HOLD - Precio: $227.65, SMA20: $230.98, SMA50: $240.33 - Tendencia bajista, mantener posición corta
+2025-02-11 11:26:06,814 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:26:06,950 - INFO - Señal para AAPL: HOLD - Precio: $227.65, SMA20: $230.98, SMA50: $240.33 - Tendencia bajista, mantener posición corta
+2025-02-11 11:27:07,091 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:27:07,227 - INFO - Señal para AAPL: HOLD - Precio: $227.65, SMA20: $230.98, SMA50: $240.33 - Tendencia bajista, mantener posición corta
+2025-02-11 11:28:07,390 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:28:07,530 - INFO - Señal para AAPL: HOLD - Precio: $227.65, SMA20: $230.98, SMA50: $240.33 - Tendencia bajista, mantener posición corta
+2025-02-11 11:29:07,670 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:29:07,806 - INFO - Señal para AAPL: HOLD - Precio: $227.65, SMA20: $230.98, SMA50: $240.33 - Tendencia bajista, mantener posición corta
+2025-02-11 11:30:07,942 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:30:08,088 - INFO - Señal para AAPL: HOLD - Precio: $227.65, SMA20: $230.98, SMA50: $240.33 - Tendencia bajista, mantener posición corta
+2025-02-11 11:31:08,230 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:31:08,365 - INFO - Señal para AAPL: HOLD - Precio: $229.53, SMA20: $230.73, SMA50: $240.22 - Tendencia bajista, mantener posición corta
+2025-02-11 11:32:08,508 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:32:08,649 - INFO - Señal para AAPL: HOLD - Precio: $230.22, SMA20: $230.77, SMA50: $240.24 - Tendencia bajista, mantener posición corta
+2025-02-11 11:33:08,783 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:33:08,916 - INFO - Señal para AAPL: HOLD - Precio: $230.46, SMA20: $230.78, SMA50: $240.24 - Tendencia bajista, mantener posición corta
+2025-02-11 11:34:09,048 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:34:09,190 - INFO - Señal para AAPL: HOLD - Precio: $230.57, SMA20: $230.79, SMA50: $240.24 - Tendencia bajista, mantener posición corta
+2025-02-11 11:35:09,326 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:35:09,463 - INFO - Señal para AAPL: HOLD - Precio: $231.10, SMA20: $230.81, SMA50: $240.25 - Tendencia bajista, mantener posición corta
+2025-02-11 11:36:09,602 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:36:09,738 - INFO - Señal para AAPL: HOLD - Precio: $231.39, SMA20: $230.83, SMA50: $240.26 - Tendencia bajista, mantener posición corta
+2025-02-11 11:37:09,890 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:37:10,035 - INFO - Señal para AAPL: HOLD - Precio: $231.72, SMA20: $230.84, SMA50: $240.27 - Tendencia bajista, mantener posición corta
+2025-02-11 11:38:10,175 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:38:10,311 - INFO - Señal para AAPL: HOLD - Precio: $231.22, SMA20: $230.82, SMA50: $240.26 - Tendencia bajista, mantener posición corta
+2025-02-11 11:39:10,441 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:39:10,576 - INFO - Señal para AAPL: HOLD - Precio: $231.04, SMA20: $230.81, SMA50: $240.25 - Tendencia bajista, mantener posición corta
+2025-02-11 11:40:10,728 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:40:10,865 - INFO - Señal para AAPL: HOLD - Precio: $230.67, SMA20: $230.79, SMA50: $240.24 - Tendencia bajista, mantener posición corta
+2025-02-11 11:41:11,003 - INFO - Posición actual en AAPL: 1.0
+2025-02-11 11:41:11,142 - INFO - Señal para AAPL: HOLD - Precio: $230.81, SMA20: $230.80, SMA50: $240.25 - Tendencia bajista, mantener posición corta
+2025-02-11 11:41:41,316 - INFO - 🛑 Deteniendo el bot de forma segura...
